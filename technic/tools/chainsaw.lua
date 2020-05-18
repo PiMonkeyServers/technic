@@ -181,6 +181,18 @@ local nodes = {
 	{"trunks:moss", false},
 	{"trunks:moss_fungus", false},
 	{"trunks:treeroot", false},
+
+	-- Support Ethereal Trees
+	{"ethereal:sakura_trunk", true},
+	{"ethereal:willow_trunk", true},
+	{"ethereal:redwood_trunk", true},
+	{"ethereal:frost_tree", true},
+	{"ethereal:yellow_trunk", true},
+	{"ethereal:palm_trunk", true},
+	{"ethereal:banana_trunk", true},
+	{"ethereal:scorched_tree", true},
+	{"ethereal:mushroom_trunk", true},
+	{"ethereal:birch_trunk", true},
 }
 
 local timber_nodenames = {}
